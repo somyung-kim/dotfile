@@ -14,7 +14,7 @@ Edit the files here. Their original locations are symlinks to this directory.
 Ghostty assets include the custom icon and existing theme files. The main config
 keeps its macOS location through a separate symlink.
 
-After editing tmux, press **Ctrl+a**, then **r** to reload. For Ghostty, use
+After editing tmux, press **Ctrl+b**, then **r** to reload. For Ghostty, use
 **Reload Configuration**. Open a new shell after editing zsh startup files.
 
 ## Original backup
